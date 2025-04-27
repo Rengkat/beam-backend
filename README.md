@@ -1,6 +1,6 @@
-# Simple Fintech Application
+# Beam Fintech Application
 
-This project is a simple fintech application designed to provide core functionalities for user account management, financial transactions, and balance tracking. The application consists of a backend API built with Node.js and Express, and a frontend built with React.js.
+This project is a simple fintech application designed to provide core functionalities for user account management, financial transactions, and balance tracking. The application consists of a backend API built with Node.js and Express, PostgresQL and a frontend built with React.js.
 
 ## Features
 
